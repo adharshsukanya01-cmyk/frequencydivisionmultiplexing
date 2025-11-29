@@ -116,7 +116,9 @@ end
 # OUTPUT
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/22324700-3dd2-464e-8fd0-bfb2ef49fa17" />
 # TABULAR COLUMN
+![d41ff7b2-598a-4405-861b-a5f69a0bca1d](https://github.com/user-attachments/assets/a30047e6-1b99-4110-82d2-b824998d8746)
 
+![507f96e0-bd9f-4f26-8156-f32250d91550](https://github.com/user-attachments/assets/6bcbd98f-6378-482f-9d1c-7aced224e9c3)
 
 
 
